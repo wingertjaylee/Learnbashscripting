@@ -75,3 +75,11 @@ pg_dump -cC --inserts -U freecodecamp worldcup > worldcup.sql
 git init
 git add.
 git add .
+git commit -m "worldcup solutions files"
+git branch -M main
+git push -u origin
+git remote -v
+git remote set-url origin https://github.com/wingertjaylee/Learnbashscripting.git
+git remote -v
+git init
+git add .
